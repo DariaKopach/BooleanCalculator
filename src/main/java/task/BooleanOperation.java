@@ -3,10 +3,10 @@ package task;
 /**
  * Classname: BooleanOperation
  *
- * @version 09.08.2020
  * @author Kopach Daria
  * <p>
  * TASK: BooleanCalculator
+ * @version 09.08.2020
  */
 
 public class BooleanOperation {
@@ -29,8 +29,7 @@ public class BooleanOperation {
         }
         if (this.firstOne == false || this.secondOne == false) {
             return false;
-        }
-        else return null;
+        } else return null;
     }
 
     // Method for disjunction
@@ -45,8 +44,7 @@ public class BooleanOperation {
         }
         if (this.firstOne == false && this.secondOne == false) {
             return false;
-        }
-        else return null;
+        } else return null;
     }
 
     //empty constructors

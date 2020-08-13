@@ -3,10 +3,10 @@ package task;
 /**
  * Classname: Main
  *
- * @version 09.08.2020
  * @author Kopach Daria
  * <p>
  * TASK: BooleanCalculator
+ * @version 09.08.2020
  */
 
 public class Main {
